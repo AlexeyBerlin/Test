@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Converter {
     public void convertDigitToWord() {
         int digit;
+        
         String arrayOfWords[] = {"zero","one","two","three","four","five","six","seven","eight","nine"};
 
         Scanner input = new Scanner(System.in);
