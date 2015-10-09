@@ -9,8 +9,8 @@ package com.geekhub;
 public class Main {
 
     public static void main(String[] args) {
-        /*Factorial worker = new Factorial();
-        worker.findFactorial()*/;
+        Factorial worker = new Factorial();
+        worker.findFactorial();
 
         /*Fibonacci worker = new Fibonacci();
         worker.printFibonacciSequence();*/
